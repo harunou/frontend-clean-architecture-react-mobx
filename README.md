@@ -1,4 +1,4 @@
-# Clean Architecture Implementation for React Application with Mobx Store
+# Fontend Clean Architecture with React and MobX
 
 This repository demonstrates a [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 implementation in a React application using Mobx state management library.
